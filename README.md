@@ -1,4 +1,4 @@
-# TRUNKY!!!!!
+# Redux example
 
 Hi, thanks for taking the time to read this.
 
