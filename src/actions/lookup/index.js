@@ -1,4 +1,4 @@
-export const lookupStart = (prop) => ({
+export const lookupStart = prop => ({
   type: 'LOOKUP_START',
   prop,
 }) 
