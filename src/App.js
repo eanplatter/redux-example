@@ -14,13 +14,13 @@ class App extends Component {
   render() {
     return (
       <Provider store={store}>
-        <div className='App'>
-          <div className='App-header'>
+        <div className="App">
+          <div className="App-header">
             <h1>Welcome to Trunky</h1>
             <p>Enter a username and find their information on different services</p>
           </div>
           <UsernameForm />
-          <div className='cards'>
+          <div className="cards">
             <GitHubCard />
             <RedditCard />
           </div>
